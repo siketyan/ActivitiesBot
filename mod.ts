@@ -21,6 +21,10 @@ const ACTIVITIES: {
     id: "755600276941176913",
     name: "YouTube Together",
   },
+  watch: {
+    id: "880218394199220334",
+    name: "Watch Together",
+  },
   fishing: {
     id: "814288819477020702",
     name: "Fishington.io",
